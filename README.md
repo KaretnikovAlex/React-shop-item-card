@@ -1,4 +1,4 @@
-# The shop item carde on React
+# The shop item card on React
 
 This repository will contain the shop item card app with context api and useReducer.
 
